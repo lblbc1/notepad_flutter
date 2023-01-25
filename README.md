@@ -18,4 +18,3 @@ Ever worked for Huawei as software developer
 focus on programming learning. http://lblbc.cn/blog  
 Including：Android(Java、Kotlin)、iOS(SwiftUI)、Flutter(Dart)、Window Desktop(C#)、Front End(WeChat mini-program、uni-app、vue)、Back End（Java、Kotlin、NodeJS、Python、PHP、Go、C、C++）、HarmonyOS(Huawei)  
 Follow me on China wechat：蓝不蓝编程  
-![](https://img-blog.csdnimg.cn/4c62bfb4cca540b1a26825f2b1a8af7e.png)
